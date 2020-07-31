@@ -6,10 +6,7 @@
    "version_no": 1,
    "version_start_date_key": "01/01/2000 00:00",
    "version_end_date_key": "01/01/2000 00:00",
-   "last_update": "09/03/2020 00:21",
-   "first_loaded_date": "18/02/2019 10:19",
-   "last_loaded_date": "09/03/2020 04:14",
-   "row_active_key": 1
+
  },
  {
    "product_version_key": 1277,
@@ -17,10 +14,7 @@
    "version_no": 2,
    "version_start_date_key": "19/08/2018 00:00",
    "version_end_date_key": "01/01/2100 00:00",
-   "last_update": "09/03/2020 00:21",
-   "first_loaded_date": "18/02/2019 10:19",
-   "last_loaded_date": "09/03/2020 04:14",
-   "row_active_key": 1
+
  }
 ]
 }
