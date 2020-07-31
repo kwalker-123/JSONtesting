@@ -1,4 +1,5 @@
-[
+{
+"product_version": [
  {
    "id": 1,
    "product_version_key": 1276,
@@ -24,3 +25,4 @@
    "row_active_key": 1
  }
 ]
+}
